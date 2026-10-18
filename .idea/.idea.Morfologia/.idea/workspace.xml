@@ -14,37 +14,139 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe20b201-b667-4d3c-977e-01494be01c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Morfologia.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Morfologia/Morfologia.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Morfologia/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Morfologia/Filters.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Morfologia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Morfologia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Morfologia/Morfologia.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Morfologia/Morfologia.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Morfologia/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Morfologia/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/rauru/Downloads/Morfologia" value="3Ksgc3J90zIi6BwZEkl6DUzg2i2" />
+    </persistenceIdMap>
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2" />
+    <option name="cachedIndexableFilesCount" value="7" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rautx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rautx/Morfologia.git&quot;,
+    &quot;accountId&quot;: &quot;7341cd63-f3f1-49c3-b8d7-82b6d1696578&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Morfologia/Filters.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000007037" />
+      <entry key="S2" value="1.000915914150539" />
+      <entry key="S5" value="1.060917476930722" />
+      <entry key="S10" value="1.2468146610935458" />
+      <entry key="S30" value="1.627273563560927" />
+      <entry key="S60" value="1.7920095281148232" />
+      <entry key="M2" value="1.894723319190124" />
+      <entry key="M5" value="2.4623259406659805" />
+      <entry key="M10" value="5.30675996466986" />
+      <entry key="M15" value="9.751509111550648" />
+      <entry key="M30" value="28.56674138287851" />
+      <entry key="H1" value="68.92033124482658" />
+      <entry key="H2" value="124.8380418060708" />
+      <entry key="H4" value="176.8087520933826" />
+      <entry key="D1" value="243.16671036075286" />
+      <entry key="W1" value="257.50883831534907" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="7.882349115772537E-186" />
+      <entry key="S5" value="9.092059444044788E-75" />
+      <entry key="S10" value="9.535229123669536E-38" />
+      <entry key="S30" value="4.569391859176484E-13" />
+      <entry key="S60" value="6.890502715914242E-7" />
+      <entry key="M2" value="0.0010067627709259032" />
+      <entry key="M5" value="0.1293997282592285" />
+      <entry key="M10" value="0.8812299776276618" />
+      <entry key="M15" value="2.040785716543389" />
+      <entry key="M30" value="7.032327560306532" />
+      <entry key="H1" value="17.745806864918958" />
+      <entry key="H2" value="32.21731940497325" />
+      <entry key="H4" value="45.36295471383461" />
+      <entry key="D1" value="61.856307684222244" />
+      <entry key="W1" value="65.38767013572826" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0013715281989628875" />
+      <entry key="MS500" value="0.2675721746067446" />
+      <entry key="S2" value="0.7197630353810546" />
+      <entry key="S5" value="0.925998882064975" />
+      <entry key="S10" value="1.1587262855498839" />
+      <entry key="S30" value="1.5842432014813392" />
+      <entry key="S60" value="1.7675226742810877" />
+      <entry key="M2" value="1.8825556779516115" />
+      <entry key="M5" value="2.5843994486544895" />
+      <entry key="M10" value="6.179854263204098" />
+      <entry key="M15" value="11.783080371649497" />
+      <entry key="M30" value="35.587533371321605" />
+      <entry key="H1" value="86.65275053695102" />
+      <entry key="H2" value="157.04302056847388" />
+      <entry key="H4" value="222.1628118050228" />
+      <entry key="D1" value="305.02094336694273" />
+      <entry key="W1" value="322.8961936118497" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3KqAHvmW4rxUBICyk1JMFkOjmIQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.Morfologia.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,6 +155,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -97,9 +200,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="i'm morfologia..." />
+    <option name="LAST_COMMIT_MESSAGE" value="i'm morfologia..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
